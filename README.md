@@ -6,7 +6,7 @@
 
 ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/code(4).jpg)
 
-I started my career in 2017 and I'm a real passionate abut what I'm doing ringhnow
+I started my career in 2017 and I'm a real passionate abut what I'm doing right now
 
 As a good self-taught person I love learning new technologies, tools, frameworks and programming languajes.
 Im really interested in Data Analytics, Data Mining, Software Development, Cybersecurity, Web and Apps Development, AI, Cloud Technologies, etc...
