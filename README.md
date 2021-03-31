@@ -42,11 +42,12 @@ And more...
 ## Find me at:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@olaf.ruv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/olaf.ruv)
-[![Facebook](https://img.shields.io/badge/Facebook-@Olaf-Ruvalcabaa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/olaf.ruvalcabaaguirre/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olaf-Ruv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olaf-ruv/)
-[![Web](https://img.shields.io/badge/My_Website-PaginaEnConstruccion.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]
-
+[![Facebook](https://img.shields.io/badge/Facebook-@Olaf_Ruvalcaba-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/olaf.ruvalcabaaguirre)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Olaf_Ruv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olaf-ruv/)
+</br>
+[![Web](https://img.shields.io/badge/My_Website-PaginaEnConstruccion.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://github.com/OlafRuv)
 
 ## Contact me:
 
