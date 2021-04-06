@@ -43,13 +43,13 @@ And more...
 
 [![Instagram](https://img.shields.io/badge/Instagram-@olaf.ruv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/olaf.ruv)
 </br>
-[![Facebook](https://img.shields.io/badge/Facebook-@Olaf_Ruvalcaba-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/olaf.ruvalcabaaguirre)
+[![Facebook](https://img.shields.io/badge/Facebook-@Olaf_Ruvalcabaa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/olaf.ruvalcabaaguirre)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Olaf_Ruv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olaf-ruv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olaf_Ruv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olaf-ruv/)
 </br>
 [![Web](https://img.shields.io/badge/My_Website-PaginaEnConstruccion.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://github.com/OlafRuv)
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/olaf.ruva@gmail.com-my_personal_email-e34033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:olaf.ruva@gmail.com)
+[![Email](https://img.shields.io/badge/olaf.ruag@gmail.com-my_personal_email-e34033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:olaf.ruag@gmail.com)
 </br>
