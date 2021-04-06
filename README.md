@@ -35,7 +35,7 @@ Im really interested in Data Analytics, Data Mining, Software Development, Cyber
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-5faf47?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-f49100?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 
