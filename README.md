@@ -1,6 +1,3 @@
-### Hello, my name is Olaf Ruvalcaba
-### Currently Student of Software Engineering 
-
 # ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/Olaf2.png) My name is Olaf Ruvalcaba
 ### Software Engineering Student in Universidad de Guadalajara, Jalisco, México
 
