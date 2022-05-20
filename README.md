@@ -1,14 +1,18 @@
+[comment]: <Sintaxis de comentario>
 # ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/Olaf2.png) My name is Olaf Ruvalcaba 
-### Software Engineering Student in Universidad de Guadalajara, Jalisco, México
-
+### Full Stack Developer in Guadalajara, Jalisco, México
 ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/code(4).jpg)
 
-I started my career in 2017 and I'm a real passionate about what I'm studying right now
-<img align="right" src="https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/hand.gif" width="100"></br>
-As a good self-taught person I love learning new technologies, tools, frameworks and programming languajes.</br>
-Im really interested in Data Science, Web and Mobile Apps Development, Cybersecurity, Cloud Technologies and some other fields... 
 
+## <img align="right" width="100" height="100" src="https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/hand.gif">About Me:
 
+```JS
+const Aboutme = {
+  info : "  I started my career in 2017 and I'm a real passionate about what I'm doing right now
+  As a good self-taught person I love learning new technologies, tools, frameworks and programming languajes.
+  Im really interested in Data Science, Web and Mobile Apps Development, Cybersecurity, Cloud Technologies and some other fields... "
+}
+```
 
 ## ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/Olaf.png) Skills:
 [![Linux](https://img.shields.io/badge/Linux-ebbb08?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
@@ -39,18 +43,18 @@ Im really interested in Data Science, Web and Mobile Apps Development, Cybersecu
 And more...
 
 
-
 ## ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/Olaf1.png) Find me at:
 
 [![Instagram](https://img.shields.io/badge/Instagram-@olaf.ruv-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/olaf.ruv)
 </br>
 [![Facebook](https://img.shields.io/badge/Facebook-@Olaf_Ruvalcabaa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/olaf.ruvalcabaaguirre)
-<img align="right" src="https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/ghost.gif" width="100"><br>
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Olaf_Ruv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/olaf-ruv/)
 </br>
 [![Web](https://img.shields.io/badge/My_Website-PaginaEnConstruccion.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://github.com/OlafRuv)
 
-## Contact me:
+
+## <img align="right" src="https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/ghost.gif" width="100">Contact me:
 
 [![Email](https://img.shields.io/badge/olaf.ruag@gmail.com-my_personal_email-e34033?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:olaf.ruag@gmail.com)
 </br>
