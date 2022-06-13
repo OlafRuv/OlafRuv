@@ -30,7 +30,9 @@ const Aboutme = {
 </br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-533b78?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![VUE](https://img.shields.io/badge/Vue-3FB27F?style=for-the-badge&logo=Vue.js&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-17B2E2?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![Angular](https://img.shields.io/badge/Angular-bd002e?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+</br>
 [![Figma](https://img.shields.io/badge/Figma-F26C5D?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]()
 [![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
 </br>
