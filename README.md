@@ -45,6 +45,8 @@ const Aboutme = {
 </br>
 [![ESLint](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white&labelColor=101010)]()
 </br>
+<img align="right" src="https://roadmap.sh/card/wide/66ea57eef34c8868ecff9a2f?variant=dark&roadmaps=frontend%2Cfull-stack%2Cbackend%2Cproduct-manager" alt="roadmap.sh"/>
+</br>
 [![Flutter](https://img.shields.io/badge/Flutter-58BDEA?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 [![Ionic](https://img.shields.io/badge/Ionic-4684F2?style=for-the-badge&logo=ionic&logoColor=white&labelColor=101010)]()
 </br>
@@ -56,6 +58,7 @@ const Aboutme = {
 [![MongoDB](https://img.shields.io/badge/MongoDB-4C8E42?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 </br>
 And more...
+</br>
 
 
 ## ![https://github.com/OlafRuv](https://raw.githubusercontent.com/OlafRuv/OlafRuv/master/Olaf1.png) Find me at:
